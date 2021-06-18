@@ -143,7 +143,7 @@ PoetDetailComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! E:\Web技术基础\practice\期末结业作业\endding\Poet-6\Poet\src\main.ts */"zUnb");
+module.exports = __webpack_require__(/*! E:\Web技术基础\practice\期末结业作业\endding\Poet-10\Poet\src\main.ts */"zUnb");
 
 
 /***/ }),
@@ -699,7 +699,7 @@ class AppComponent {
     }
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(); };
-AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 11, vars: 1, consts: [["id", "WebPage", 1, "container"], ["id", "page-total-title"], ["id", "navbar"], ["routerLink", "/dashboard"], ["routerLink", "/poets"], ["href", "https://blog.csdn.net/ysqxj999/article/details/117912118", 1, "blank"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
+AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 11, vars: 1, consts: [["id", "WebPage", 1, "container"], ["id", "page-total-title"], ["id", "navbar"], ["routerLink", "/dashboard"], ["routerLink", "/poets"], ["href", "https://ysq00000.github.io/WebPage/", 1, "blank"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h1", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2);
